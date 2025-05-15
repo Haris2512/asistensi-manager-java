@@ -1,13 +1,11 @@
 package org.kelompok5.models;
 
-// User.java (Abstract Class)
 public abstract class User {
-    String nama, nim, id;
+    public String nama, nim;
     private String password;
     private double nilai;
 
-    public User(String id, String nama, String nim, String password, double nilai) {
-        this.id = id;
+    public User(String nama, String nim, String password, double nilai) {
         this.nama = nama;
         this.nim = nim;
         this.nilai = nilai;
@@ -28,4 +26,10 @@ public abstract class User {
     public void setPassword(String password) {
         this.password = password;
     }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public abstract String getRole();
 }

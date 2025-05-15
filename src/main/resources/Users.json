@@ -1,57 +1,62 @@
 [
   {
-    "id": "AS101",
-    "nama": "Ahmad Fauzi",
-    "nim": "1122334455",
-    "password": "ahmadfauzi123",
-    "nilai": 88.0,
     "praktikanAsuhan": [
       {
-        "id": "PR001",
-        "nama": "John Doe",
-        "nim": "123456789",
         "password": "johndoe123",
+        "nim": "J123456789",
+        "nama": "John Doe",
         "nilai": 85.5
       },
       {
-        "id": "PR002",
-        "nama": "Jane Smith",
-        "nim": "987654321",
         "password": "janesmith123",
+        "nim": "J987654321",
+        "nama": "Jane Smith",
         "nilai": 90.0
       }
-    ]
+    ],
+    "password": "ahmadfauzi123",
+    "nim": "A112233445",
+    "peran": "Asisten",
+    "nama": "Ahmad Fauzi",
+    "nilai": 88.0
   },
   {
-    "id": "AS102",
-    "nama": "Budi Santoso",
-    "nim": "2233445566",
+    "praktikanAsuhan": [],
     "password": "budisantoso123",
-    "nilai": 86.5,
-    "praktikanAsuhan": []
+    "nim": "B223344556",
+    "peran": "Asisten",
+    "nama": "Budi Santoso",
+    "nilai": 86.5
   },
   {
-    "id": "AS103",
-    "nama": "Citra Dewi",
-    "nim": "3344556677",
+    "praktikanAsuhan": [],
     "password": "citradewi123",
-    "nilai": 92.0,
-    "praktikanAsuhan": []
+    "nim": "C334455667",
+    "peran": "Asisten",
+    "nama": "Citra Dewi",
+    "nilai": 92.0
   },
   {
-    "id": "AS104",
-    "nama": "Dian Pratama",
-    "nim": "4455667788",
+    "praktikanAsuhan": [
+      {
+        "password": "wahyu123",
+        "nim": "H071241077",
+        "nama": "wahyu",
+        "nilai": 80.0
+      }
+    ],
     "password": "dianpratama123",
-    "nilai": 81.0,
-    "praktikanAsuhan": []
+    "nim": "D445566778",
+    "peran": "Asisten",
+    "nama": "Dian Pratama",
+    "nilai": 81.0
   },
   {
-    "id": "AS105",
-    "nama": "Eka Wulandari",
-    "nim": "5566778899",
+    "praktikanAsuhan": [],
     "password": "ekawulandari123",
-    "nilai": 95.5,
-    "praktikanAsuhan": []
+    "nim": "E556677889",
+    "peran": "Asisten",
+    "nama": "Eka Wulandari",
+    "nilai": 95.5
   }
 ]

@@ -1,52 +1,53 @@
 [
   {
-    "judul": "Tugas 1 PBO",
     "deskripsi": "Membuat class Mahasiswa dan Dosen menggunakan prinsip OOP",
+    "judul": "Tugas 1 PBO",
     "deadline": "2025-05-20"
   },
   {
-    "judul": "Tugas 2 PBO",
     "deskripsi": "Menerapkan pewarisan antara class Kendaraan dan Mobil",
+    "judul": "Tugas 2 PBO",
     "deadline": "2025-05-27"
   },
   {
-    "judul": "Tugas 3 PBO",
     "deskripsi": "Implementasi interface dan abstract class dalam sistem perbankan",
+    "judul": "Tugas 3 PBO",
     "deadline": "2025-06-03"
   },
   {
-    "judul": "Tugas 4 PBO",
     "deskripsi": "Membuat program manajemen perpustakaan menggunakan ArrayList",
+    "judul": "Tugas 4 PBO",
     "deadline": "2025-06-10"
   },
   {
-    "judul": "Tugas 5 PBO",
     "deskripsi": "Membuat sistem pemesanan makanan berbasis console",
+    "judul": "Tugas 5 PBO",
     "deadline": "2025-06-17"
   },
   {
-    "judul": "Tugas 6 PBO",
     "deskripsi": "Mengelola data mahasiswa dengan membaca dan menulis file JSON",
+    "judul": "Tugas 6 PBO",
     "deadline": "2025-06-24"
   },
   {
-    "judul": "Tugas 7 PBO",
     "deskripsi": "Membuat sistem login dengan validasi data menggunakan objek",
+    "judul": "Tugas 7 PBO",
     "deadline": "2025-07-01"
   },
   {
-    "judul": "Tugas 8 PBO",
     "deskripsi": "Simulasi bank: membuat akun, setoran, dan penarikan saldo",
+    "judul": "Tugas 8 PBO",
     "deadline": "2025-07-08"
   },
   {
-    "judul": "Tugas 9 PBO",
     "deskripsi": "Penggunaan polymorphism dalam aplikasi pegawai perusahaan",
+    "judul": "Tugas 9 PBO",
     "deadline": "2025-07-15"
   },
   {
-    "judul": "Tugas 10 PBO",
     "deskripsi": "Final project: Aplikasi manajemen asisten dan praktikan",
+    "judul": "Tugas 10 PBO",
     "deadline": "2025-07-22"
-  }
+  },
+  { "deskripsi": "testing123", "judul": "testing", "deadline": "2028-12-21" }
 ]
